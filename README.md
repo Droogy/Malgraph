@@ -4,7 +4,8 @@ Visualize PE files and their function imports.
 Malgraph is a utility that processes 32/64bit PE malware samples and their function imports and section names. These attributes are used to generate both a DOT file (allowing you to customize and fine-tune image generation) and a PNG image.  
 
 ## Example Output  
-![Screenshot](assets/screenshot.png)
+![CLI execution](assets/screenshot2.png)  
+![Screenshot of graph](assets/screenshot.png)  
 
 ## Getting Started
 ### Dependencies  
